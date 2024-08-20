@@ -1,8 +1,5 @@
-export const img_plant = new Image();
-img_plant.src = "https://cdn.glitch.global/f177d83d-ace1-4f20-bd69-2215a3a27db2/plant.png?v=1722061062796";
-
 export const img_ground = new Image();
-img_ground.src = "https://cdn.glitch.global/f177d83d-ace1-4f20-bd69-2215a3a27db2/grass.png?v=1722081444686";
+img_ground.src = "../../images/grass.png";
 
 export const characterImg = {
   _info: {
@@ -49,38 +46,38 @@ export const characterImg = {
 }
 
 
-characterImg.pea.normal.src = "../../images/peas/normal-pea.png";
-characterImg.pea.snow.src="../../images/peas/snow-pea.png";
-characterImg.pea.shadow.src="../../images/peas/shadow-pea.png";
-characterImg.pea.bomb.src="../../images/peas/bomb-pea.png";
-characterImg.pea.doom.src="../../images/peas/doom-pea.png";
-characterImg.pea.dr.src="../../images/peas/dr-pea.png";
-characterImg.pea.gojo.src="../../images/peas/gojo-pea.png";
-characterImg.pea.elec.src="../../images/peas/elec-pea.png";
-characterImg.pea.iron.src="../../images/peas/iron-pea.png";
-characterImg.pea.gatling.src = "../../images/peas/gatling-pea.png";
-characterImg.pea.goo.src = "../../images/peas/goo-pea.png";
-characterImg.pea.young.src="../../images/peas/young-pea.png";
-characterImg.pea.god.src="../../images/peas/god-pea.png";
-characterImg.pea.primal.src="../../images/peas/primal-pea.png";
-characterImg.pea.sun.src="../../images/peas/sun-pea.png";
-characterImg.pea.sweet.src="../../images/peas/sweet-pea.png";
+characterImg.pea.normal.src = "../../../images/peas/normal-pea.png";
+characterImg.pea.snow.src="../../../images/peas/snow-pea.png";
+characterImg.pea.shadow.src="../../../images/peas/shadow-pea.png";
+characterImg.pea.bomb.src="../../../images/peas/bomb-pea.png";
+characterImg.pea.doom.src="../../../images/peas/doom-pea.png";
+characterImg.pea.dr.src="../../../images/peas/dr-pea.png";
+characterImg.pea.gojo.src="../../../images/peas/gojo-pea.png";
+characterImg.pea.elec.src="../../../images/peas/elec-pea.png";
+characterImg.pea.iron.src="../../../images/peas/iron-pea.png";
+characterImg.pea.gatling.src = "../../../images/peas/gatling-pea.png";
+characterImg.pea.goo.src = "../../../images/peas/goo-pea.png";
+characterImg.pea.young.src="../../../images/peas/young-pea.png";
+characterImg.pea.god.src="../../../images/peas/god-pea.png";
+characterImg.pea.primal.src="../../../images/peas/primal-pea.png";
+characterImg.pea.sun.src="../../../images/peas/sun-pea.png";
+characterImg.pea.sweet.src="../../../images/peas/sweet-pea.png";
 
 
-characterImg.zom.basic.src = "../../images/zombies/basic.png";
-characterImg.zom.headcone.src="../../images/zombies/headcone.png";
-characterImg.zom.buckethead.src="../../images/zombies/buckethead.png";
-characterImg.zom.armwrester.src="../../images/zombies/armwrester.png";
-characterImg.zom.vest.src="../../images/zombies/vest.png";
-characterImg.zom.car.src="../../images/zombies/car.png";
-characterImg.zom.gargantuar.src="../../images/zombies/gargantuar.png";
-characterImg.zom.basicRadioactive.src="../../images/zombies/basicRadioactive.png";
-characterImg.zom.headconeRadioactive.src="../../images/zombies/headconeRadioactive.png";
-characterImg.zom.bucketheadRadioactive.src="../../images/zombies/bucketheadRadioactive.png";
-characterImg.zom.carRadioactive.src="../../images/zombies/carRadioactive.png";
-characterImg.zom.gargantuarRadioactive.src="../../images/zombies/gargantuarRadioactive.png";
-characterImg.zom.basicGenMutated.src="../../images/zombies/basicGenMutated.png";
-characterImg.zom.headconeGenMutated.src="../../images/zombies/headconeGenMutated.png";
-characterImg.zom.bucketheadGenMutated.src="../../images/zombies/bucketheadGenMutated.png";
-characterImg.zom.roboticZomboss.src="../../images/zombies/roboticZomboss.png";
+characterImg.zom.basic.src = "../../../images/zombies/basic.png";
+characterImg.zom.headcone.src="../../../images/zombies/headcone.png";
+characterImg.zom.buckethead.src="../../../images/zombies/buckethead.png";
+characterImg.zom.armwrester.src="../../../images/zombies/armwrester.png";
+characterImg.zom.vest.src="../../../images/zombies/vest.png";
+characterImg.zom.car.src="../../../images/zombies/car.png";
+characterImg.zom.gargantuar.src="../../../images/zombies/gargantuar.png";
+characterImg.zom.basicRadioactive.src="../../../images/zombies/basicRadioactive.png";
+characterImg.zom.headconeRadioactive.src="../../../images/zombies/headconeRadioactive.png";
+characterImg.zom.bucketheadRadioactive.src="../../../images/zombies/bucketheadRadioactive.png";
+characterImg.zom.carRadioactive.src="../../../images/zombies/carRadioactive.png";
+characterImg.zom.gargantuarRadioactive.src="../../../images/zombies/gargantuarRadioactive.png";
+characterImg.zom.basicGenMutated.src="../../../images/zombies/basicGenMutated.png";
+characterImg.zom.headconeGenMutated.src="../../../images/zombies/headconeGenMutated.png";
+characterImg.zom.bucketheadGenMutated.src="../../../images/zombies/bucketheadGenMutated.png";
+characterImg.zom.roboticZomboss.src="../../../images/zombies/roboticZomboss.png";
 
